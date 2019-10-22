@@ -13,7 +13,7 @@ body {
   height: 100%;
   box-sizing: border-box;
   margin: 0;
-  font-family: "Karla", "Rubik", 'Segoe UI', 'Roboto', 'Oxygen',
+  font-family: "Karla", "Muli", 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -21,7 +21,9 @@ body {
 }
 
 h1,h2,h3,h4,h5 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Muli', sans-serif;
+  color: #212B36;
+  font-weight: 700;
   margin: 0;
   padding: 0;
 }
